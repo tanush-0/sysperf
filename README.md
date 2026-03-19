@@ -53,7 +53,7 @@ systempulse/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/sysperf.git
+git clone https://github.com/tanush-0/sysperf.git
 cd sysperf
 pip install -r requirements.txt
 ```
