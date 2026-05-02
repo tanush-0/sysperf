@@ -52,6 +52,13 @@ systempulse/
 
 ## ⚙️ Installation
 
+If you have Python Enviourment, Activate it
+OR, 
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
 ```bash
 git clone https://github.com/tanush-0/sysperf.git
 cd sysperf
